@@ -1,5 +1,5 @@
-# ML Waste Classification
+# ML Trash Classification
 
 Categorizes images of waste as recycling, compost, or trash.
 
-Made using Tensorflow, React, and Flask
+Made using Tensorflow, React, and Flask.
